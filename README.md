@@ -7,7 +7,7 @@ Using the record facility of OBS this allows lyric videos to be quickly made.
 
 ## Installing
 
-Run setup.exe
+Run [setup.exe](https://github.com/congoblue/OBSLyrics/blob/main/OBSLyrics/publish/setup.exe)
 
 ## Setting up OBS
 
