@@ -5,6 +5,10 @@ This app allows you to paste in lyrics for a song video. It will then place the 
 
 Using the record facility of OBS this allows lyric videos to be quickly made.
 
+## Installing
+
+Run setup.exe
+
 ## Setting up OBS
 
 1. Run OBSLyrics and paste in the lyrics you want to show. 
@@ -26,6 +30,6 @@ You need to do some fiddling to keep the text centred on the screen as the text 
 
 
 
-##Drop shadow
+## Drop shadow
 OBS does not currently have the ability to do drop shadow on text.
 You can duplicate the Text source (right click, Copy, Paste(Duplicate)) and make the lower text black, then use the Transform -> Edit Transform menu to offset one of them by a few pixels.
